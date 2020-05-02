@@ -1,0 +1,2 @@
+# Music_and_war
+The following is an analysis of the amount of music dedicated to a particular war and the war characteristics, mainly its global size, deadliness and duration. Using Wikipedia as a data source, we answer questions such as: is music made during or after a war? Are some wars more sung about in popular culture? If so, is it because they were more deadly? Or because they lasted longer? 
